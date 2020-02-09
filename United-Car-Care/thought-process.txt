@@ -1,0 +1,28 @@
+-Fixed url and formatting
+-Matched definitions
+-Created page, text and button
+-Created display space
+-Linked files
+-Tested API
+-Noted connection speed and packet response
+-Noted packet size
+-Got an idea of the exact data I was dealing with
+-Formatted page
+-Checked for syntax errors
+-Linted, ran tests, and debugged otherwise
+-CoverageTerm is undefined because my goal here was to show my thinking
+-I did not focus on getting this to work so much as showing my thinking
+-In production I would certainly take the time to make it work
+-Where the object is created to be sent to the server is where criteria is inserted
+-These are the criteria I wish to send to get results that match
+-There are occasional commas in objects or where I inserted the required info, such as, search criteria or API authenticatin info
+-The commas are to separate things out
+-I did not match the id's to the html doc exactly
+-This is because, again, I am only trying to show how I would solve this problem
+-In production I would take the time to make sure everything matched up
+-Note: This project is on github
+-Since I put this on github there is now one directory deeper to go into
+-I intended to deploy this
+
+
+
